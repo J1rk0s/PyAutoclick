@@ -17,7 +17,6 @@ def click():
             # keyboard.press(key)
             # keyboard.release(key)
             # time.sleep(0.01)           
-            continue
         if keyboard.is_pressed('m'):
             break
 frame = tk.Frame(root)
